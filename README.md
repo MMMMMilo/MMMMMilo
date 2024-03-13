@@ -15,8 +15,8 @@ Glad to see you here and enjoy my project below.🎉
     <td width="50%" style="text-align:center;">
       <h3>Healthy Food  健康定位</h3>
       <img style="width:100%" src="https://github.com/MMMMMilo/MMMMMilo/assets/152141976/707b5251-376e-4110-9a14-989a37932350">
-      <p fontSize="16pt">HTML、CSS、JavaScr ipt、Vue. js、SASS、MySQL、PHP、AJAX、Boost rap、Git</p>
-      <p fontSize="16pt">販售健康餐盒、有機食材</p>
+      <p style="font-size:16pt;">HTML、CSS、JavaScr ipt、Vue. js、SASS、MySQL、PHP、AJAX、Boost rap、Git</p>
+      <p style="font-size:16pt;">販售健康餐盒、有機食材</p>
     </td>
     <td width="50%" style="text-align:center;">
       <h3>Anthro Academy  綠人學院</h3>
